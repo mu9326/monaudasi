@@ -1,4 +1,4 @@
- <h1 align = "center"><img src="https://github.com/mu9326/monaudasi/blob/main/hello_emoticon.jpg" width="75" />Hi there, I'm Mona Anil Udasi 👋</h1>
+ <h1 align = "center"><img src="https://github.com/mu9326/monaudasi/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Mona Anil Udasi 👋</h1>
 
 I am  passionate about __Software Development__, __Machine Learning__, __Data Science__, __Large Language Models (LLMs)__ and __Generative AI__. 
 

@@ -14,7 +14,7 @@ I have strong practical and theoretical experience in the development of __Large
 
 🔭 Some of the notable courses I have completed at RIT that helped in gaining strong theoretical foundation include: 
 * *Advanced Object-Oriented Programming in Java*
-* *Foundations of Alogrithms*
+* *Foundations of Algorithms*
 * *Foundations of Artificial Intelligence*
 * *Introduction to Machine Learning*
 * *Information Retrieval*
